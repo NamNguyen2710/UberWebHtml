@@ -60,7 +60,7 @@ header {
 /* Main page */
 .main-page {
   position: relative;
-  background-image: url(./uber_home_bg.png);
+  background-image: url(../../asset/uber_home_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
